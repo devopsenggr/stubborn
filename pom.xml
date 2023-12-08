@@ -3,4 +3,9 @@
   <groupId>welcome</groupId>
   <artifactId>Welcome</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+<properties>
+    <java.version>22</java.version>
+    <maven.compiler.source>22</maven.compiler.source>
+    <maven.compiler.target>22</maven.compiler.target>
+</properties>
 </project>
