@@ -2,6 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>welcome</groupId>
   <artifactId>Welcome</artifactId>
+  <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
   <build>
     <plugins>
